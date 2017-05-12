@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrustButInbox</string>
+    <string name="send_message">send message</string>
+    <string-array name="list_messages">
+        <item>Mmathew:Interested in laptop;Hi there!..</item>
+        <item>Mkumar:Purchase bicycle.Hello;When can..</item>
+        <item>Ssharma: Murach C# textbook.Best available..</item>
+        <item>JSmith: HTML and CSS txtbook.Hi! Is it..</item>
+        <item>EAbraham:Study Desk.Hi there!..</item>
+    </string-array>
+</resources>
